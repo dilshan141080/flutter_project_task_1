@@ -22,12 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 - **Role:** Flutter Development Intern  
 - **Organization:** DevelopersHub Corporation  
 
----
 
-## 📷 Screenshots
-
-### App Preview
-![App Preview](screenshots/task1_app.png)
 ## 📷 Screenshots
 
 ### Home Screen

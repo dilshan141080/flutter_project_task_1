@@ -28,3 +28,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ### App Preview
 ![App Preview](screenshots/task1_app.png)
+## 📷 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home%20screen.png)
+
+### Login Screen
+![Login Screen](screenshots/login%20screen.png)
